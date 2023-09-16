@@ -1,1 +1,1 @@
-update requirements.txt
+Auto-format by https://ultralytics.com/actions
